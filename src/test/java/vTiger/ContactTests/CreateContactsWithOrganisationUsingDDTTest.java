@@ -47,7 +47,7 @@ import vTiger.ObjectRepository.OrganizationPage;
 	@Listeners(vTiger.GenericUtilities.ListenerImplementationClass.class)//Because listener will take only .class path
 	public class CreateContactsWithOrganisationUsingDDTTest extends BaseClass
 	{
-	@Test/**(groups = "SmokeSuite")**/
+	@Test(groups = "SmokeSuite")
 	public void createContactsWithOrgTest() throws IOException
 	{
 		//step-1 Read the test data

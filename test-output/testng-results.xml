@@ -8,7 +8,7 @@
       <![CDATA[create organisation lookup image is clicked]]>
     </line>
     <line>
-      <![CDATA[organisation is createdInfosys85]]>
+      <![CDATA[organisation is createdInfosys113]]>
     </line>
     <line>
       <![CDATA[contacts link is clicked]]>
@@ -20,24 +20,27 @@
       <![CDATA[new contacts with organization is createdRay]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-21T17:39:55 IST" name="Default suite" finished-at="2022-12-21T17:40:59 IST" duration-ms="64294">
+  <suite started-at="2022-12-21T18:13:33 IST" name="Suite" finished-at="2022-12-21T18:14:07 IST" duration-ms="34470">
     <groups>
+      <group name="SmokeSuite">
+        <method signature="CreateContactsWithOrganisationUsingDDTTest.createContactsWithOrgTest()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" name="createContactsWithOrgTest" class="vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest"/>
+      </group> <!-- SmokeSuite -->
     </groups>
-    <test started-at="2022-12-21T17:39:55 IST" name="Default test" finished-at="2022-12-21T17:40:59 IST" duration-ms="64294">
+    <test started-at="2022-12-21T18:13:33 IST" name="Test" finished-at="2022-12-21T18:14:07 IST" duration-ms="34470">
       <class name="vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@79e2c065]" started-at="2022-12-21T17:39:55 IST" name="bsConfig" finished-at="2022-12-21T17:39:55 IST" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" started-at="2022-12-21T18:13:33 IST" name="bsConfig" finished-at="2022-12-21T18:13:33 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@79e2c065]" started-at="2022-12-21T17:39:56 IST" name="bcConfig" finished-at="2022-12-21T17:40:07 IST" duration-ms="11422" status="PASS">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" started-at="2022-12-21T18:13:33 IST" name="bcConfig" finished-at="2022-12-21T18:13:36 IST" duration-ms="3124" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@79e2c065]" started-at="2022-12-21T17:40:07 IST" name="bmConfig" finished-at="2022-12-21T17:40:18 IST" duration-ms="10466" status="PASS">
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" started-at="2022-12-21T18:13:36 IST" name="bmConfig" finished-at="2022-12-21T18:13:39 IST" duration-ms="3238" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmConfig -->
-        <test-method signature="createContactsWithOrgTest()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@79e2c065]" started-at="2022-12-21T17:40:18 IST" name="createContactsWithOrgTest" finished-at="2022-12-21T17:40:57 IST" duration-ms="39104" status="PASS">
+        <test-method signature="createContactsWithOrgTest()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" started-at="2022-12-21T18:13:39 IST" name="createContactsWithOrgTest" finished-at="2022-12-21T18:14:05 IST" duration-ms="25672" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[organisation is clicked]]>
@@ -46,7 +49,7 @@
               <![CDATA[create organisation lookup image is clicked]]>
             </line>
             <line>
-              <![CDATA[organisation is createdInfosys85]]>
+              <![CDATA[organisation is createdInfosys113]]>
             </line>
             <line>
               <![CDATA[contacts link is clicked]]>
@@ -59,19 +62,19 @@
             </line>
           </reporter-output>
         </test-method> <!-- createContactsWithOrgTest -->
-        <test-method is-config="true" signature="amConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@79e2c065]" started-at="2022-12-21T17:40:57 IST" name="amConfig" finished-at="2022-12-21T17:40:59 IST" duration-ms="2551" status="PASS">
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" started-at="2022-12-21T18:14:05 IST" name="amConfig" finished-at="2022-12-21T18:14:07 IST" duration-ms="2170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amConfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@79e2c065]" started-at="2022-12-21T17:40:59 IST" name="acConfig" finished-at="2022-12-21T17:40:59 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" started-at="2022-12-21T18:14:07 IST" name="acConfig" finished-at="2022-12-21T18:14:07 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@79e2c065]" started-at="2022-12-21T17:41:01 IST" name="asConfig" finished-at="2022-12-21T17:41:01 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest@436813f3]" started-at="2022-12-21T18:14:07 IST" name="asConfig" finished-at="2022-12-21T18:14:07 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- asConfig -->
       </class> <!-- vTiger.ContactTests.CreateContactsWithOrganisationUsingDDTTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
