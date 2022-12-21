@@ -117,7 +117,7 @@ import vTiger.ObjectRepository.OrganizationPage;
 				}
 			**/
 	     }
-	@Test/**(groups = "RegressionSuite")**/
+	//@Test/**(groups = "RegressionSuite")**/
 	public void demo()
 	{
 		System.out.println("demo test run");
