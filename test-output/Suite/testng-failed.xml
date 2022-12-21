@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test-Runner-Chrome(failed)">
+    <parameter name="BROWSER" value="Chrome"/>
+    <classes>
+      <class name="vTiger.OrganisationTests.CreateOrganizationTest">
+        <methods>
+          <include name="asConfig"/>
+          <include name="bsConfig"/>
+          <include name="bmConfig"/>
+          <include name="amConfig"/>
+          <include name="acConfig"/>
+          <include name="createOrgnizationTest"/>
+        </methods>
+      </class> <!-- vTiger.OrganisationTests.CreateOrganizationTest -->
+    </classes>
+  </test> <!-- Test-Runner-Chrome(failed) -->
+  <test thread-count="5" name="Test-Runner-Microsoft Edge(failed)">
+    <parameter name="BROWSER" value="Microsoft Edge"/>
+    <classes>
+      <class name="vTiger.OrganisationTests.CreateOrganizationTest">
+        <methods>
+          <include name="asConfig"/>
+          <include name="bsConfig"/>
+          <include name="bmConfig"/>
+          <include name="amConfig"/>
+          <include name="acConfig"/>
+          <include name="createOrgnizationTest"/>
+        </methods>
+      </class> <!-- vTiger.OrganisationTests.CreateOrganizationTest -->
+    </classes>
+  </test> <!-- Test-Runner-Microsoft Edge(failed) -->
+</suite> <!-- Failed suite [Suite] -->
