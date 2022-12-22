@@ -24,5 +24,6 @@ public class TestNGpractise
 	public void listofUser()
 	{
 		System.out.println("user is modified");
+		System.out.println("user is modified");
 	}
 }
